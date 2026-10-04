@@ -1,4 +1,3 @@
-{
-  "displayName": "Rebinding UI",
-  "description": "An example UI component that demonstrates how to create UI for rebinding actions. Requires the Universal Render Pipeline (URP) package to be installed for shader compilation."
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:40a32d75012303e30e2a24ed4b62382a53e343581171ef764105e44c45657adc
+size 230

@@ -1,17 +1,3 @@
-{
-        "name": "Mock HMD XR Plugin",
-        "version": "0.1.0-preview.1",
-        "libraryName": "UnityMockHMD",
-        "displays": [
-                {
-                        "id": "Mock HMD Display",
-                        "supportedMirrorBlitReservedModes" : ["leftEye","rightEye", "sideBySide"]
-
-                }
-        ],
-        "inputs": [
-                {
-                        "id": "Mock HMD Head Tracking"
-                }
-        ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0089632c7f8f911070649c556c8e2d1a7bf6ccb4e4732dc62c72c5a670d42f9
+size 458

@@ -1,12 +1,3 @@
-{
-  "name": "com.unity.modules.video",
-  "version": "1.0.0",
-  "type": "module",
-  "displayName": "Video",
-  "description": "The Video module lets you play back video files in your content. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VideoModule.html",
-  "dependencies": {
-    "com.unity.modules.audio": "1.0.0",
-    "com.unity.modules.ui": "1.0.0",
-    "com.unity.modules.unitywebrequest": "1.0.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc02e4d7a0f48feb4d6a8b3eff894f820d65202bc23cdfa43ade245ebe8b0444
+size 428

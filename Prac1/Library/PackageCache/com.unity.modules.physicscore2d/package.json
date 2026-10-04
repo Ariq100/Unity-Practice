@@ -1,8 +1,3 @@
-{
-  "name": "com.unity.modules.physicscore2d",
-  "version": "1.0.0",
-  "type": "module",
-  "displayName": "Physics Core 2D",
-  "description": "The PhysicsCore2D module contains all the core 2D physics features. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.PhysicsCore2DModule.html",
-  "dependencies": {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:25eb12096babc38eef4d8f4f6bee82c919134d3b679a9dc53840c93cab8c8f24
+size 328

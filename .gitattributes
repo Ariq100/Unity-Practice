@@ -1,3 +1,10 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*. filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+*.dag filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.index filter=lfs diff=lfs merge=lfs -text
 Prac1/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 Prac1/Library/Bee/200b0aE.dag filter=lfs diff=lfs merge=lfs -text
 Prac1/Library/Bee/200b0aE.dag.json filter=lfs diff=lfs merge=lfs -text
