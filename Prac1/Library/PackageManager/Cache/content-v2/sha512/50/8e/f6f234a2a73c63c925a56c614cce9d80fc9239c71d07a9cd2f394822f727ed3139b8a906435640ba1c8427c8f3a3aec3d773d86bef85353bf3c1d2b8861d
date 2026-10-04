@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-lSPUZUh98RG8NB9j7CESEcff1zh2pLt+PHccY1ZNu5Y=","packageName":"com.unity.xr.mock-hmd","packageVersion":"1.5.0-exp.3","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
