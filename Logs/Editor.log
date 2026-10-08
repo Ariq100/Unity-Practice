@@ -8462,3 +8462,5 @@ TrimDiskCacheJob: Current cache size 0mb
 [Worker0] Imported GUID: c49d3c6b3c0954e528e5020c1c49acfa - Path: Packages/com.unity.visualscripting/Editor/VisualScripting.State/Flow - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a3917468be199f690e8e5b688cee472a') in 0.014399375 seconds
 [Worker0] Imported GUID: 114afe9c22f14d80babb5231767c7d61 - Path: Packages/com.unity.pipeline/Runtime/Telemetry - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e6511182e61c135d25134bdb3c6ba81b') in 0.014108375 seconds
 [Worker1] Imported GUID: 5ec95f4d5b2d1f14e9ff8682562553f9 - Path: Packages/com.unity.ugui/Package Resources - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '3b4cbb54705655a9b453b3aaa0ce6056') in 0.014219417 seconds
+Asset Pipeline Refresh (id=6b11d93f2c023407da4b599ba035a3de): Total: 0.202 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=20f14c8debf744459ac0560be4f3e62c): Total: 0.255 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
