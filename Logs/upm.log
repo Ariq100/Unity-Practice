@@ -1,0 +1,74 @@
+[2026-10-08T05:25:44.481Z][INFO] Command-line: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager server -s 24432 --ipc-path /tmp/Unity-Upm-24432.sock -l 2 --log-file '/Users/ariq/Code/Unity Practice/Logs/upm.log'
+[2026-10-08T05:25:44.506Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-24432.sock).
+[2026-10-08T05:25:44.506Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-24432.
+[2026-10-08T05:25:46.381Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:25:46.579Z][INFO] project:list-packages --> 200 (199 ms)
+[2026-10-08T05:25:46.736Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-08T05:25:46.742Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-10-08T05:25:46.759Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:25:46.833Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-10-08T05:25:46.886Z][INFO] project:list-packages --> 200 (127 ms)
+[2026-10-08T05:25:50.754Z][WARN] Requested version [2.3.0] for package [com.unity.xr.core-utils] overridden by minimum version [2.6.0].
+[2026-10-08T05:25:50.754Z][WARN] Requested version [2.1.2] for package [com.unity.xr.legacyinputhelpers] overridden by minimum version [3.0.1].
+[2026-10-08T05:25:50.754Z][WARN] Requested version [3.0.2] for package [com.unity.nuget.newtonsoft-json] overridden by minimum version [3.2.2].
+[2026-10-08T05:25:50.754Z][WARN] Requested version [1.7.2] for package [com.unity.xr.hands] overridden by minimum version [1.9.0].
+[2026-10-08T05:25:50.754Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-10-08T05:25:50.755Z][INFO] project:resolve-packages --> 200 (3922 ms)
+[2026-10-08T05:26:20.524Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:20.552Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:20.838Z][INFO] project:list-packages --> 200 (286 ms)
+[2026-10-08T05:26:20.839Z][INFO] project:list-packages --> 200 (316 ms)
+[2026-10-08T05:26:21.177Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:21.273Z][INFO] project:list-packages --> 200 (96 ms)
+[2026-10-08T05:26:21.447Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:21.547Z][INFO] project:list-packages --> 200 (100 ms)
+[2026-10-08T05:26:22.343Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:22.470Z][INFO] project:list-packages --> 200 (127 ms)
+[2026-10-08T05:26:23.350Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-08T05:26:23.354Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-10-08T05:26:23.406Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-10-08T05:26:23.458Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:23.877Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:24.116Z][INFO] packages:get-all-packageinfo --> 200 (709 ms)
+[2026-10-08T05:26:24.240Z][INFO] project:list-packages --> 200 (782 ms)
+[2026-10-08T05:26:30.744Z][INFO] project:list-packages --> 200 (6867 ms)
+[2026-10-08T05:26:33.288Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:33.440Z][INFO] project:list-packages --> 200 (152 ms)
+[2026-10-08T05:26:33.465Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:33.578Z][INFO] project:list-packages --> 200 (113 ms)
+[2026-10-08T05:26:36.409Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.meta.xr.sdk.core"
+}
+[2026-10-08T05:26:36.419Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.meta.xr.sdk.interaction"
+}
+[2026-10-08T05:26:36.429Z][INFO] packages:get-packageinfo --> 200 (21 ms)
+[2026-10-08T05:26:36.429Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.meta.xr.sdk.interaction.ovr"
+}
+[2026-10-08T05:26:36.436Z][INFO] packages:get-packageinfo --> 200 (17 ms)
+[2026-10-08T05:26:36.439Z][INFO] packages:get-packageinfo --> 200 (10 ms)
+[2026-10-08T05:26:37.200Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:37.309Z][INFO] project:list-packages --> 200 (109 ms)
+[2026-10-08T05:26:43.993Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-08T05:26:44.216Z][INFO] project:list-packages --> 200 (224 ms)
